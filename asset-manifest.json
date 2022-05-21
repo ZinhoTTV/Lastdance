@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Lastdance/static/css/main.5b1af7ef.css",
+    "main.js": "/Lastdance/static/js/main.1f450af2.js",
+    "static/media/leagueofBack.png": "/Lastdance/static/media/leagueofBack.cd8f4e8e329b3e2d72eb.png",
+    "static/media/dedo-do-meio.gif": "/Lastdance/static/media/dedo-do-meio.f53bb05ccf5157a1abc1.gif",
+    "static/media/aside1.jpeg": "/Lastdance/static/media/aside1.3a5484422fa867ad7948.jpeg",
+    "static/media/aside2.jpeg": "/Lastdance/static/media/aside2.6446dd389b32a9dd6300.jpeg",
+    "static/media/avatar2.jpeg": "/Lastdance/static/media/avatar2.ff5939eb09b76851a97d.jpeg",
+    "static/media/aside3.jpeg": "/Lastdance/static/media/aside3.1a0f697e5cf9d80115a3.jpeg",
+    "static/media/avatar.jpeg": "/Lastdance/static/media/avatar.38721c04bf625656df2a.jpeg",
+    "static/media/logo.png": "/Lastdance/static/media/logo.1e71d48a7698bdf33e3e.png",
+    "static/media/Eu.jpg": "/Lastdance/static/media/Eu.7c62669f6bbcd37aae1f.jpg",
+    "index.html": "/Lastdance/index.html",
+    "main.5b1af7ef.css.map": "/Lastdance/static/css/main.5b1af7ef.css.map",
+    "main.1f450af2.js.map": "/Lastdance/static/js/main.1f450af2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b1af7ef.css",
+    "static/js/main.1f450af2.js"
+  ]
+}
