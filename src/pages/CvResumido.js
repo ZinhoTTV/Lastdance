@@ -7,7 +7,7 @@ const CvResumido = ()=> (
 		
 		<ul id="menu">
 			<li class="ativo">Resumido</li>
-			<li><a href="/CvCompleto"> Completo</a></li>
+			<li><a href="/LastDance/CvCompleto"> Completo</a></li>
 		</ul>
 		
 		<div class="secao">
