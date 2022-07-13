@@ -6,7 +6,7 @@ const CvCompleto = ()=> (
         <h1>Curriculo Vitae</h1>
 		
 		<ul id="menu">
-			<li><a href="/CvResumido">Resumido</a></li>
+			<li><a href="/LastDance/CvResumido">Resumido</a></li>
 			<li>Completo</li>
 		</ul>
 		
