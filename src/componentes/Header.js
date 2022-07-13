@@ -4,7 +4,7 @@ import logo from "../imagens/logo.png";
 
 const Header = () => (
     <header>
-        <a href="/">.</a>
+        <a href="/"></a>
     </header>
 );
 
